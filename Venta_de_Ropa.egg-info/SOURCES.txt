@@ -1,0 +1,8 @@
+setup.py
+Venta_de_Ropa.egg-info/PKG-INFO
+Venta_de_Ropa.egg-info/SOURCES.txt
+Venta_de_Ropa.egg-info/dependency_links.txt
+Venta_de_Ropa.egg-info/top_level.txt
+paquete1/__init__.py
+paquete1/cliente.py
+paquete1/productos.py
